@@ -1,4 +1,4 @@
-# analise dataset iris.
+# Análise dataset iris.
 
 O projeto em questão trata-se de uma análise de dados voltada para a classificação de espécies de flores Iris. A motivação principal é criar um modelo capaz de prever a espécie de uma flor com base em suas características específicas, como o comprimento e largura da sépala e da pétala.
 
